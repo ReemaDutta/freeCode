@@ -1,5 +1,6 @@
-{	"author": "Reema Dutta",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Reema Dutta",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
